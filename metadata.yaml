@@ -1,10 +1,16 @@
 _repo: Viestini-menneilta-sukupolvilta_50452
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Roslin-Kalliola, Matilda
     gutenberg_agent_id: '45911'
     url: http://www.gutenberg.org/2009/agents/45911
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50452#Viestini-menneilta-sukupolvilta
 gutenberg_issued: '2015-11-14'
 gutenberg_type: Text
 identifiers:
